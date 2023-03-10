@@ -2,7 +2,7 @@
 - I’m interested in quantitative sociology, social stratification and social change. Since 2010 I have adressed these topics in the field of food and eating practices.
 - I am also head of the Masters track "[Quantifier en sciences sociales](https://master-sciences-sociales.ens.psl.eu/qess-presentation/)", hosted by ENS-PSL and EHESS.
 - 📫 Check [my webpage](https://www.cmh.ens.fr/author/marie-plessz/)
-- 
+
 Some of my research project repos are on [INRAE's gitlab](https://forgemia.inra.fr/marie.plessz).
 
 <!---
