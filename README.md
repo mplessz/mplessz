@@ -34,34 +34,19 @@ La plupart de mes projets de recherche sont hébergés sur **[le Gitlab INRAE](h
 
 ---
 
-## 🛠️ Compétences & Outils
-
-**Analyse de données :**
+## 🛠️ Compétences méthodologiques
 - R (tidyverse, ggplot2, data.table)
 - STATA
 - Github, Markdown
 - Analyse statistique avancée (multivarié, biais de non-réponse, données de panel)
 - Données complexes : cohortes épidémiologiques, achats alimentaires, emplois du temps
-
-**Sociologie :**
-- stratificiation sociales, inégalités
-- alimentation, consommation
-- générations, âges de la vie, vieillissement
-- théorie des pratiques
-
-**Méthodologie :**
-- Analyse quantitative et qualitative
-- Analyse de réseaux sociaux
-- Enquêtes et questionnaires
-- Analyse textuelle
-
----
+- Méthodes mixtes
 
 ## 📫 Me contacter
 
 - 🌐 **Webpage** : [w3.cmh.ens.fr/author/marie-plessz/](https://www.cmh.ens.fr/author/marie-plessz/)
 - 📧 **Email** : Consultez mon site personnel
-- 🏢 **Affiliation** : INRAE, France
+- 🏢 **Affiliation** : INRAE, Centre Maurice Halbwachs, France
 
 ---
 
@@ -69,18 +54,6 @@ La plupart de mes projets de recherche sont hébergés sur **[le Gitlab INRAE](h
 
 Pour mes publications et communications scientifiques, veuillez consulter :
 - 📄 [Ma page de profil sur le site du CMH](https://www.cmh.ens.fr/author/marie-plessz/)
-- 🔬 [Mes projets sur INRAE GitLab](https://forgelia.inra.fr/marie.plessz)
+- 🔬 [Mes publications sur HAL](https://cv.hal.science/marie-plessz)
 
 ---
-
-## 🤝 Collaborations
-
-Je suis ouverte à :
-- 🔬 Projets de recherche collaboratifs en sociologie quantitative
-- 💬 Échanges méthodologiques sur l'analyse de données
-- 🎓 Collaborations dans le cadre du Master QESS
-- 🌐 Partenariats interdisciplinaires
-
----
-
-**Merci de votre visite ! N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration.** ✨
