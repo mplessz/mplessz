@@ -1,4 +1,4 @@
-# Bienvenue 👋
+# Bienvenue
 
 Je suis **chercheuse en sociologie** à l'**INRAE** (Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement), en France.
 
@@ -30,8 +30,13 @@ Ce Master forme les étudiantes et étudiants aux méthodes quantitatives avanc�
 
 La plupart de mes projets de recherche sont hébergés sur **[le Gitlab INRAE](https://forgemia.inra.fr/marie.plessz)**.
 
+### Projets en cours
+- **PREFALIM et Dynapol** : analyse des liens entre préférences des consommateurs dans leurs achats alimentaires, et impact carbone et santé de leurs achats
+- **Fastfood** : qui va au fastfood en France à partir de Budget de famille 2027
 
-
+### Récents
+- Part des **aliments ultratransformés** dans le budget alimentaire des ménages français selon la position sociale, la situation familiale et les pratiques de cuisine
+- **Temporalité de l'écriture scientifique** et pourquoi écrire est si difficile
 ---
 
 ## 🛠️ Compétences méthodologiques
