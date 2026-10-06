@@ -16,7 +16,7 @@ Je suis **chercheuse en sociologie** à l'**INRAE** (Institut National de Recher
 
 ## 👨‍🎓 Enseignement
 
-Je suis **directrice du Master "Quantifier en sciences sociales"** (QESS), co-hôte par :
+De 2018 à 2024 j'ai été **directrice du Master "Quantifier en sciences sociales"** (QESS), porté par 
 - **ENS-PSL** (École Normale Supérieure Paris-Saclay)
 - **EHESS** (École des Hautes Études en Sciences Sociales)
 
@@ -30,25 +30,24 @@ Ce Master forme les étudiantes et étudiants aux méthodes quantitatives avanc�
 
 La plupart de mes projets de recherche sont hébergés sur **[INRAE's GitLab](https://forgemia.inra.fr/marie.plessz)**.
 
-Vous y trouverez notamment :
-- Des analyses quantitatives sur les pratiques alimentaires
-- Des données et scripts d'analyse statistique
-- Des ressources pédagogiques
+
 
 ---
 
 ## 🛠️ Compétences & Outils
 
 **Analyse de données :**
-- R (tidyverse, ggplot2, Shiny)
-- Python (pandas, NumPy, SciPy)
+- R (tidyverse, ggplot2, data.table)
 - STATA
-- Analyse statistique avancée
+- Github, Markdown
+- Analyse statistique avancée (multivarié, biais de non-réponse, données de panel)
+- Données complexes : cohortes épidémiologiques, achats alimentaires, emplois du temps
 
-**Visualisation :**
-- ggplot2 / Plotly
-- Cartographie de données
-- Graphiques statistiques
+**Sociologie :**
+- stratificiation sociales, inégalités
+- alimentation, consommation
+- générations, âges de la vie, vieillissement
+- théorie des pratiques
 
 **Méthodologie :**
 - Analyse quantitative et qualitative
