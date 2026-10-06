@@ -28,7 +28,7 @@ Ce Master forme les étudiantes et étudiants aux méthodes quantitatives avanc�
 
 ## 📊 Projets de recherche
 
-La plupart de mes projets de recherche sont hébergés sur **[INRAE's GitLab](https://forgemia.inra.fr/marie.plessz)**.
+La plupart de mes projets de recherche sont hébergés sur **[le Gitlab INRAE](https://forgemia.inra.fr/marie.plessz)**.
 
 
 
