@@ -7,10 +7,10 @@ Je suis **chercheuse en sociologie** à l'**INRAE** (Institut National de Recher
 ## 🎯 Domaines de recherche
 
 - **Sociologie quantitative** et analyse statistique
-- **Stratification sociale** et mobilité sociale
-- **Changement social** et inégalités
-- **Pratiques alimentaires** et consommation (depuis 2010)
-- **Sociologie de l'alimentation et du système agro-alimentaire**
+- **Stratification sociale** et inégalités sociales et de genre
+- **Changement social**, générations, âges de la vie, vieillissement
+- **Pratiques alimentaires** et consommation 
+- **Théorie des pratiques**
 
 ---
 
