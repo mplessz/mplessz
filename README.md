@@ -50,7 +50,7 @@ La plupart de mes projets de recherche sont hébergés sur **[le Gitlab INRAE](h
 ## 📫 Me contacter
 
 - 🌐 **Webpage** : [w3.cmh.ens.fr/author/marie-plessz/](https://www.cmh.ens.fr/author/marie-plessz/)
-- 📧 **Email** : Consultez mon site personnel
+- 📧 **Email** : prenom.nom@inrae.fr
 - 🏢 **Affiliation** : INRAE, Centre Maurice Halbwachs, France
 
 ---
