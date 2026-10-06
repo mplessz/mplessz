@@ -14,11 +14,9 @@ Je suis **chercheuse en sociologie** à l'**INRAE** (Institut National de Recher
 
 ---
 
-## 👨‍🎓 Enseignement
+## 👨‍🎓 Autres expériences
 
-De 2018 à 2024 j'ai été **directrice du Master "Quantifier en sciences sociales"** (QESS), porté par 
-- **ENS-PSL** (École Normale Supérieure Paris-Saclay)
-- **EHESS** (École des Hautes Études en Sciences Sociales)
+- De 2018 à 2024 j'ai été **directrice du Master "Quantifier en sciences sociales"** (QESS), porté par **ENS-PSL** (École Normale Supérieure) et **EHESS** (École des Hautes Études en Sciences Sociales).
 
 Ce Master forme les étudiantes et étudiants aux méthodes quantitatives avancées en sciences sociales.
 
@@ -46,14 +44,6 @@ La plupart de mes projets de recherche sont hébergés sur **[le Gitlab INRAE](h
 - Analyse statistique avancée (multivarié, biais de non-réponse, données de panel)
 - Données complexes : cohortes épidémiologiques, achats alimentaires, emplois du temps
 - Méthodes mixtes
-
-## 📫 Me contacter
-
-- 🌐 **Webpage** : [w3.cmh.ens.fr/author/marie-plessz/](https://www.cmh.ens.fr/author/marie-plessz/)
-- 📧 **Email** : prenom.nom@inrae.fr
-- 🏢 **Affiliation** : INRAE, Centre Maurice Halbwachs, France
-
----
 
 ## 📚 Publications & Ressources
 
